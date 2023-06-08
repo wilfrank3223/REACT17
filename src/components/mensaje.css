@@ -1,0 +1,33 @@
+.mensaje {
+    color: rgb(200, 214, 200)
+}
+header {
+    color: rgb(212, 212, 224); 
+   
+    background-color: rgb(160, 24, 126);
+    padding: 30px;
+    }
+
+footer {
+    color: rgb(249, 242, 255);
+    background-color: purple;
+    padding: 20px;
+    margin: 0;
+    text-align: double;
+    
+
+}
+h1 {
+    color: rgb(170, 184, 190);
+   
+    color: rgb(249, 242, 255);
+    background-color: purple;
+    padding: 20px;
+    margin: 0;
+    text-align: double;
+    
+    
+}
+img{
+    border-radius: 50%;
+}
